@@ -1,0 +1,1 @@
+number = "numarıyı girin"
